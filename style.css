@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    color: darkgoldenrod;
+}
+
+
+
+.menubar {
+    display: flex;
+    height: 30%;
+    width: 100%;
+    background-color: rebeccapurple;
+}
+
+.com_profile {
+    width: 30%;
+    text-align: center;
+
+}
+
+.com_profile a {
+    font-size: 40px;
+    text-decoration: none;
+    color: darkgoldenrod;
+    font-weight: bold;
+
+
+
+}
+
+.menu-item {
+    width: 70%;
+    display: flex;
+}
+
+.menu-item a {
+    margin-right: 5%;
+    padding: 10px;
+    text-decoration: none;
+    color: darkgoldenrod;
+    font-weight: bold;
+    background-color: azure;
+    border-radius: 20px;
+}
+
+.box {
+    display: flex;
+}
+
+.box-shaddo {
+    width: 25%;
+    box-shadow: 5px 5px 30px 10px gray;
+    margin: 5%;
+    text-align: justify;
+    border-radius: 20px;
+    padding: 20px;
+
+
+
+}
+
+.box-shaddo img {
+    width: 100%;
+    border-radius: 20px;
+}
